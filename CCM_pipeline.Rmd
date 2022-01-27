@@ -9,9 +9,9 @@ knitr::opts_chunk$set(echo=T, message=F, warning=FALSE,
                        fig.align='center', tidy=FALSE)
 ```
 
-#code is written to run on rEDM version 1.2.3
-#require(devtools)
-#install_version("rEDM", version = "1.2.3", repos = "http://cran.us.r-project.org")
+# code is written to run on rEDM version 1.2.3
+# require(devtools)
+# install_version("rEDM", version = "1.2.3", repos = "http://cran.us.r-project.org")
 
 ```{r load packages, include=FALSE}
 # Load necessary packages into R
