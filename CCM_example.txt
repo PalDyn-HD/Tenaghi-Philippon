@@ -1,0 +1,10 @@
+Data sources for the CCM example:
+
+CH4:
+
+Loulergue L, Schilt A, Spahni R, Masson-Delmotte V, Blunier T, Lemieux B, Barnola JM, Raynaud D, Stocker TF, Chappellaz J. Orbital and millennial-scale features of atmospheric CH4 over the past 800,000 years. Nature. 2008 May 15;453(7193):383-6. doi: 10.1038/nature06950. PMID: 18480822.
+
+CO2:
+
+Bazin, Lucie; Landais, Amaelle; Lemieux-Dudon, Bénédicte; Toyé Mahamadou Kele, H; Veres, Daniel; Parrenin, Frédéric; Martinerie, Patricia; Ritz, Catherine; Capron, Emilie; Lipenkov, Vladimir Ya; Loutre, M-F; Raynaud, Dominique; Vinther, Bo Møllesøe; Svensson, Anders M; Rasmussen, Sune Olander; Severi, Mirko; Blunier, Thomas; Leuenberger, Markus C; Fischer, Hubertus; Masson-Delmotte, Valerie; Chappellaz, Jérôme A; Wolff, Eric W (2013): An optimized multi-proxy, multi-site Antarctic ice and gas orbital chronology (AICC2012): 120-800 ka. Climate of the Past, 9(4), 1715-1731, https://doi.org/10.5194/cp-9-1715-2013
+Veres, Daniel; Bazin, Lucie; Landais, Amaelle; Toyé Mahamadou Kele, H; Lemieux-Dudon, Bénédicte; Parrenin, Frédéric; Martinerie, Patricia; Blayo, Eric; Blunier, Thomas; Capron, Emilie; Chappellaz, Jérôme A; Rasmussen, Sune Olander; Severi, Mirko; Svensson, Anders M; Vinther, Bo Møllesøe; Wolff, Eric W (2013): The Antarctic ice core chronology (AICC2012): an optimized multi-parameter and multi-site dating approach for the last 120 thousand years. Climate of the Past, 9(4), 1733-1748, https://doi.org/10.5194/cp-9-1733-2013
